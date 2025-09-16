@@ -1,0 +1,67 @@
+{
+  "Discover": [
+    "User Interviews",
+    "Contextual Inquiry (Shadowing)",
+    "Diary Studies",
+    "Field Studies / Ethnographic Research",
+    "Surveys & Questionnaires",
+    "Focus Groups",
+    "Remote Moderated Interviews",
+    "Unmoderated Remote Testing",
+    "Usability Observation (Exploratory)",
+    "Web/App Analytics Review",
+    "Heatmaps (Click/Scroll Tracking)",
+    "Session Recording Analysis",
+    "Competitor Benchmarking",
+    "Market Trend Analysis",
+    "Literature Review / Secondary Research",
+    "Card Sorting",
+    "Tree Testing"
+  ],
+  "Define": [
+    "Persona Creation & Validation",
+    "Empathy Mapping",
+    "Customer Journey Mapping",
+    "Service Blueprinting",
+    "Affinity Diagramming",
+    "Problem Statements",
+    "\"How Might We\" Questions",
+    "Needs Statements",
+    "Requirement Gathering",
+    "Co-creation Workshops",
+    "Prioritization Matrices (MoSCoW, Kano, etc.)",
+    "Scenarios & Use Cases"
+  ],
+  "Design": [
+    "Brainstorming / Ideation Sessions",
+    "Sketching",
+    "Storyboarding",
+    "Wireframing",
+    "Low-fidelity Prototyping",
+    "Information Architecture (Sitemaps, Task Flows)",
+    "Interaction Flows / Task Models",
+    "Concept Testing",
+    "Design Studio Workshops"
+  ],
+  "Develop": [
+    "High-fidelity Prototyping",
+    "UI Design (Screens, Components)",
+    "Visual Design (Look & Feel)",
+    "Interaction Design",
+    "Design Systems / Pattern Libraries",
+    "Accessibility Testing",
+    "Responsive & Adaptive Design",
+    "Motion Design / Microinteractions",
+    "Content Design & Copywriting",
+    "Usability Testing (Iterative, In-lab)"
+  ],
+  "Deliver": [
+    "A/B Testing",
+    "Beta Testing / Pilot Testing",
+    "Usability Observation (Validation)",
+    "Post-Launch Analytics Review",
+    "Feedback Loops (Support Tickets, Reviews)",
+    "Success Metrics & KPIs Tracking",
+    "Continuous Monitoring & Iteration"
+  ]
+}
